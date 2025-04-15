@@ -2,8 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 @plugin "daisyui";
-body {
-  background-color: #1f2937; /* لون داكن مثل Gray-800 من Tailwind */
-  margin: 0;
-  padding: 0;
-}

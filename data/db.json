@@ -1,12 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "buy pizza and milk"
+      "id": "5e560f86-56fc-4f50-8bf7-f68e41301af5",
+      "text": "اذهب للمدرسة"
     },
     {
-      "id": 2,
-      "text": "go to the gym at 10am"
+      "id": "6710566a-7e01-4f34-835d-c678616069c5",
+      "text": "اشهب للعمل"
+    },
+    {
+      "id": "775171da-ae45-471f-8922-090232478834",
+      "text": "dd"
     }
   ]
 }
